@@ -1,0 +1,22 @@
+﻿Instalando ensamblado 'D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.InstallLog
+   assemblypath = D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+Instalando el servicio WCFServicioCliente...
+El servicio WCFServicioCliente se ha instalado correctamente.
+Creando el origen de EventLog WCFServicioCliente en el registro Application...
+Confirmando ensamblado 'D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.InstallLog
+   assemblypath = D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+Desinstalando ensamblado 'D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.InstallLog
+   assemblypath = D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+Quitando el origen de EventLog WCFServicioCliente.
+Se está quitando el servicio WCFServicioCliente del sistema...
+El servicio WCFServicioCliente se ha quitado correctamente del sistema.
+Intento de detener el servicio WCFServicioCliente.

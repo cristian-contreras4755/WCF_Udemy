@@ -1,0 +1,13 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.Fachada.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.Fachada.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Dapper.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Release\Dapper.xml
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Release\Pacagroup.Comercial.Creditos.Fachada.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Release\Pacagroup.Comercial.Creditos.Fachada.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Release\Pacagroup.Comercial.Creditos.Fachada.pdb

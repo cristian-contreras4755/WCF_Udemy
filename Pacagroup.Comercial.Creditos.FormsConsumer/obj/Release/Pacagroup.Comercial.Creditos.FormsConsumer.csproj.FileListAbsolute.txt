@@ -1,0 +1,11 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Release\Pacagroup.Comercial.Creditos.FormsConsumer.exe.config
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Release\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Release\Pacagroup.Comercial.Creditos.FormsConsumer.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Release\Pacagroup.Comercial.Creditos.FormsConsumer.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Release\Pacagroup.Comercial.Creditos.FormsConsumer.frmListadoCreditos.resources
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Release\Pacagroup.Comercial.Creditos.FormsConsumer.Properties.Resources.resources
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Release\Pacagroup.Comercial.Creditos.FormsConsumer.csproj.GenerateResource.Cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Release\Pacagroup.Comercial.Creditos.FormsConsumer.exe
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.FormsConsumer\obj\Release\Pacagroup.Comercial.Creditos.FormsConsumer.pdb

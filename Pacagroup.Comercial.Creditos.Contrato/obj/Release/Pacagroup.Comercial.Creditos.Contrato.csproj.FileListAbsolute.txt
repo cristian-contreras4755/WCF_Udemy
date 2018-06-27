@@ -1,0 +1,7 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Release\Pacagroup.Comercial.Creditos.Contrato.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Release\Pacagroup.Comercial.Creditos.Contrato.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Release\Pacagroup.Comercial.Creditos.Contrato.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Release\Pacagroup.Comercial.Creditos.Contrato.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Contrato\obj\Release\Pacagroup.Comercial.Creditos.Contrato.pdb

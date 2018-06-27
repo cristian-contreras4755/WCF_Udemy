@@ -1,0 +1,5 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Dominio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Dominio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Dominio\obj\Release\Pacagroup.Comercial.Creditos.Dominio.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Dominio\obj\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.Dominio\obj\Release\Pacagroup.Comercial.Creditos.Dominio.pdb

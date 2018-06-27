@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\AE\WCF Udemy\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Dapper.dll">
+      <publishTime>07/22/2016 14:52:40</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Contrato.dll">
+      <publishTime>10/02/2017 22:11:11</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.ContratoRepositorio.dll">
+      <publishTime>10/02/2017 22:11:10</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Dominio.dll">
+      <publishTime>10/02/2017 22:11:10</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Fachada.dll">
+      <publishTime>10/02/2017 22:11:11</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Implementacion.dll">
+      <publishTime>10/02/2017 22:11:11</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.SqlRepositorio.dll">
+      <publishTime>10/02/2017 22:11:11</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.WcfService.dll">
+      <publishTime>10/02/2017 22:11:12</publishTime>
+    </File>
+    <File Include="ClienteService.svc">
+      <publishTime>09/18/2017 23:50:40</publishTime>
+    </File>
+    <File Include="CreditoService.svc">
+      <publishTime>09/27/2017 22:58:19</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/02/2017 22:11:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Dapper.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\bin\Debug\Dapper.xml
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.csprojResolveAssemblyReference.cache
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+D:\AE\WCF Udemy\SOAP\Pacagroup.Comercial.Creditos.SqlRepositorio\obj\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
